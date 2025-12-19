@@ -106,7 +106,8 @@ jupyter notebook
 
 ## 📸 Ejemplo de Visualización
 
-![app](https://github.com/user-attachments/assets/52b70e45-6d01-404f-95c5-940b407734db)
+![b7a5dc94-77cd-46fc-9da6-f8b4edeee9ba](https://github.com/user-attachments/assets/6e746719-d89d-4b91-8013-0a1a435ba3f5)
+
 
 ---
 
