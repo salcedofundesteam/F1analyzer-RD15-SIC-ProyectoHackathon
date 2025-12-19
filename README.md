@@ -1,6 +1,6 @@
 # 🏎️ F1 Analyzer
 
-**F1 Analyzer** es una herramienta interactiva desarrollada en **Python** para analizar y visualizar el rendimiento histórico de pilotos y equipos de **Fórmula 1**.  
+**F1 Analyzer** es una herramienta interactiva desarrollada en **Python** para analizar y visualizar el rendimiento histórico de pilotos y equipos de **Fórmula 1**. Entre otras cosas,
 El proyecto utiliza datos reales del campeonato mundial para descubrir patrones, tendencias y métricas de desempeño a lo largo de las temporadas.
 
 ---
@@ -13,6 +13,7 @@ Construir un sistema capaz de procesar datos históricos de la F1 para:
 - Comparar estadísticas clave entre temporadas.
 - Visualizar los resultados de manera clara e interactiva.
 - Desarrollar habilidades en análisis de datos, visualización y manejo de datasets complejos.
+- Realizar predicciones futuras.
 
 ---
 
@@ -34,7 +35,7 @@ Contiene información completa sobre:
 ✅ **Comparación de equipos** — rendimiento por constructor, paradas en boxes, consistencia.  
 ✅ **Visualización de datos** — gráficos interactivos con `matplotlib`, `seaborn` y `plotly`.  
 ✅ **Insights estadísticos** — correlaciones entre factores de rendimiento y resultados.  
-
+✅ **IA** — Generar predicciones en base a informaciones pasadas.  
 ---
 
 ## 👥 Roles del Equipo
